@@ -4,6 +4,7 @@
 #include "Subject.h"
 #include "MoveArgs.h"
 
+
 class RealImage;
 
 class ProxyRealImage : public Subject {
